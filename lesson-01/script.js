@@ -35,19 +35,19 @@
 
 // Undefined indicates that variable has been declared but not yet assigned a value, whereas null is a value that represents the deliberate absence of any value
 
-let student;
+let studentName;
 let age;
 let admissionStatus;
 let course;
 let languages;
 
-student = "John";
+studentName = "John";
 age = 29;
 admissionStatus = true;
 course = "Computer Science";
 languages = ["JavaScript", "Python", "Go", "Rust", "C"];
 
-console.log(student);
+console.log(studentName);
 console.log(age);
 console.log(admissionStatus);
 console.log(course);
