@@ -1,6 +1,6 @@
 // DATA TYPES IN JAVASCRIPT
 
-// Data types in JavaScript define what kind of values a variable can hold and how those values behave in a program. 
+// Data types in JavaScript define what kind of values a variable can hold and how those values behave in a program.
 // They determine how data is stored in a memory and how operations like comparisons, calculations and conversions work.
 
 // DATA TYPE CATEGORIES
@@ -30,7 +30,6 @@
 // 4. Date object
 // 5. Regular Expression
 
-
 //DIFFERENCE BETWEEN UNDEFINED AND NULL
 
 // Undefined indicates that variable has been declared but not yet assigned a value, whereas null is a value that represents the deliberate absence of any value
@@ -52,4 +51,3 @@ console.log(age);
 console.log(admissionStatus);
 console.log(course);
 console.log(languages);
-
